@@ -1,1 +1,1 @@
-script that prints the type of the file named iamafile
+13. We are symbols, and inhabit symbols
